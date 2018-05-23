@@ -1,6 +1,4 @@
-# OOP II Tutorium Skript (Cheat Sheet)
-
-### Inhalt (einfach draufklicken)
+# Inhalt
 
 - [Java und JavaFX Grundgerüst](grundgeruest.md)
 - Java Basics
@@ -8,7 +6,7 @@
 - JavaFX
     - [JavaFX Aufbau eines Fensters](javafx/javafx-aufbau.md)
 
-### ToDo (was noch kommen wird)
+## ToDo (was noch kommen wird)
 - Anonyme Klassen
 - Wichtige Imports für JavaFX
 - Generics
