@@ -1,3 +1,5 @@
+<span style="font-size: 26px; color: red">Diese Seite ist noch nicht fertig!</span>
+
 ## Arrays mit For-Schleifen durchlaufen
 
 Wir legen uns einen Array an, den wir dann mit einer For-Schleife durchlaufen wollen.
