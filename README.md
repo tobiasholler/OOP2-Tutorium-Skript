@@ -1,3 +1,5 @@
+<span style="font-size: 26px; color: red">Dieses Skript ist noch in Arbeit und nicht Vollständig!</span>
+
 # Inhalt
 
 - [Java und JavaFX Grundgerüst](grundgeruest.md)

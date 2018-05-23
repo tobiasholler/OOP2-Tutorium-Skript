@@ -1,4 +1,5 @@
 # Grundgerüst
+Diese Grundgerüste sollte man meiner Meinung nach für die Prüfung auswendig können und verstanden haben.
 ## Kommandozeilen-Anwendung
 ``` java
 class Klassenname {
